@@ -16,7 +16,7 @@ public class Interval {
 
     }
 
-    public void Interval(int h1, int h2){
+    public Interval(int h1, int h2){
         horaInici = h1;
         horaFi = h2;
     }
